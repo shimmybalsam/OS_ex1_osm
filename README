@@ -1,0 +1,20 @@
+naamagl, shimmy10
+Naama Glazer (307880971), Shimmy Balsam (204693352)
+EX: 1
+
+FILES:
+osm.cpp -- a file with some code
+Makefile -- compiles the program, generates the libosom.a library
+graph.png -- the barplotted results of he time measurments
+
+
+ANSWERS:
+
+Assignment 1:
+The program opens a folder called "Welcome" and inside it another folder called 
+"To", then opens a file called "OS2018".the program then writes from buffer 
+to the file - "username\n,if you havn't read the..." and returns the location 
+of the buffer, the program has to be called with an argument, which is written 
+to the buffer.
+Then, the program deletes the file and the folders it created.
+
